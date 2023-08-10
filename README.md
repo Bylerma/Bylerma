@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python,java**
 
-- 👨‍💻 All of my projects are available at [https://bylermajack.blogspot.com/](https://bylermajack.blogspot.com/)
+- 👨‍💻 All of my projects are available at [https://bhanupratapsinghportfolio.blogspot.com/](https://bhanupratapsinghportfolio.blogspot.com/)
 
 - 💬 Ask me about **problem solving**
 
