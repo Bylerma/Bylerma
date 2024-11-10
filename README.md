@@ -37,3 +37,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bylerma&show_icons=true&locale=en" alt="bylerma" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bylerma&" alt="bylerma" /></p>
+
+[![An image of @bylerma's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bylerma)](https://holopin.io/@bylerma)
