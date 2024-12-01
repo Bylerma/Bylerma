@@ -1,3 +1,6 @@
+
+[![An image of @bylerma's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bylerma)](https://holopin.io/@bylerma)
+
 <h1 align="center">Hi 👋, I'm Bhanu Pratap Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
